@@ -1,1 +1,64 @@
-
+{
+  "plans": [
+    {
+      "id": "free_plan",
+      "name": "Trust Building Free Plan",
+      "price": "₹ Free",
+      "description": "5 - Real Indian Subscriber's",
+      "features": [
+        "No Free view",
+        "No Real Views Daily",
+        "Start time - Less 20 M",
+        "Speed up - 10k/hour",
+        "24/7 support Priority"
+      ],
+      "button_id": "data_Free",
+      "button_text": "Choose Starter"
+    },
+    {
+      "id": "starter_plan",
+      "name": "Starter Plan",
+      "price": "₹499",
+      "description": "1K - Real Indian Subscriber's",
+      "features": [
+        "10K Views Free",
+        "100 Real Views Daily",
+        "Start time - Less 5 M",
+        "Speed up - 100k/hour",
+        "24/7 support Priority"
+      ],
+      "button_id": "data_499",
+      "button_text": "Choose Starter"
+    },
+    {
+      "id": "pro_plan",
+      "name": "Pro Plan",
+      "price": "₹1999",
+      "description": "5K - Real Indian Subscriber's",
+      "features": [
+        "50K Free View",
+        "5000 Real Subscriber Indians+USA",
+        "50+ Views Regular 5 Days",
+        "24/7 Support Priority",
+        "Speed 5 min less"
+      ],
+      "button_id": "data_1999",
+      "button_text": "Go Pro Now"
+    },
+    {
+      "id": "ultimate_plan",
+      "name": "Ultimate Plan",
+      "price": "₹2499",
+      "description": "20K Real Views",
+      "features": [
+        "20k Real active Subscribers",
+        "2k views daily - 10 day's",
+        "300+ Dark Secret Algorithm Hack PDF",
+        "24/7 support",
+        "Speed Less than 1 Min"
+      ],
+      "button_id": "Data_2499",
+      "button_text": "Go Ultimate"
+    }
+  ]
+}
